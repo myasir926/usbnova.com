@@ -9,7 +9,7 @@ sidebar_position: 40
 The keyboard setup assistant can break your attack flow. To prevent that, you have to make the BadUSB appear as an Apple keyboard.
 
 :::tip
-You can change the IDs to anything you want. Websites like devicehuhnt.com have a database that you can search for registered USB devices.
+You can change the IDs to anything you want. Websites like devicehunt.com have a database that you can search for registered USB devices.
 :::
 
 This is how you make the USB Nova appear as a *Apple Aluminium Keyboard with ISO layout*:
